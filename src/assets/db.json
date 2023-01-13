@@ -1,0 +1,28 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "sid": 101,
+      "sname": "NNP",
+      "saddr": "Aurangabad"
+    },
+    {
+      "id": 2,
+      "sid": 102,
+      "sname": "HJK",
+      "saddr": "Nashik"
+    },
+    {
+      "id": 3,
+      "sid": 103,
+      "sname": "FFF",
+      "saddr": "Sangamner"
+    },
+    {
+      "sid": "104",
+      "sname": "TRE",
+      "saddr": "Mumbai",
+      "id": 4
+    }
+  ]
+}

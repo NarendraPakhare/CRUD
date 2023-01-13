@@ -1,0 +1,20 @@
+
+<h2>Employee Data</h2>
+  <table class="table">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Name</th>
+        <th scope="col">Address</th>
+        <th scope="col">Mobile no</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let e of emp">
+        <td>{{e.eid}}</td>
+        <td>{{e.ename}}</td>
+        <td>{{e.addr}}</td>
+        <td>{{e.mobno}}</td>
+      </tr>
+    </tbody>
+  </table>

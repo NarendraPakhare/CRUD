@@ -1,0 +1,28 @@
+{
+    "Employee":[
+        {
+            "eid":1,
+            "ename":"XYZ",
+            "addr":"Pune",
+            "mobno":762547623
+        },
+        {
+            "eid":2,
+            "ename":"JKL",
+            "addr":"Nashik",
+            "mobno":989236845
+        },
+        {
+            "eid":3,
+            "ename":"IOP",
+            "addr":"Mumbai",
+            "mobno":7625476234
+        },
+        {
+            "eid":4,
+            "ename":"ASD",
+            "addr":"Dhule",
+            "mobno":886253477
+        }
+    ]
+}
